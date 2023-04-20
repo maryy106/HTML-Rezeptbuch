@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Your online Recipes!</title>
+    <style>
+        img {
+          width: 400px
+        }
+    </style>
+  </head>
+  <body>
+   <img src=".(image für header)" >
+   <table cellspacing="5" cellpadding="5">
+    <tr>
+      <td>Home</td>
+      <td>Gallery</td>
+      <td>Recent</td>
+      <td>About us</td>
+    </tr>
+  </table>
+    <header>
+      <h1>WELCOME TO THIS PAGE!</h1>
+    </header>
+  <head>
+        <body>
+            <p> Hello and welcome to this online recipe book! This blog will give you a lot of inspiration on great recipes you can try 
+                making on your own! Contact the admins for further questions. </p>
+        </body>
+        <p>On this blog, you're going to find information on:</p>
+        <ul>
+            <li><a href="https://www.dailyvegan.de/2016/06/06/bruschetta/ ">Bruschetta</a></li>
+            <li> <a href="https://www.zuckerzimtundliebe.de/2016/07/rezept-wassermelone-feta-minz-salat-watermelon-feta-mint-salad-recipe/">Watermelon Feta Salad with Mint</a></li>
+            <li> <a href="https://helloyummy.co/honeycomb-pasta-cake-recipe/">Honeycomb Pasta Cake</a></li>
+            <li><a href="https://www.einfachbacken.de/rezepte/zitronenkuchen-erfrischend-saftig">Lemon Cake</a></li>
+         </ul>
+      </head>
+<h1> Appetizer </h1>
+<h3> How to make Bruschetta</h3>
+
+<p> Ingredients list
+    <ul>
+    <li> 700 g ripe tomatoes, finely diced </li> 
+    <li> 2 red onions, chopped </li> 
+    <li> 3 garlic cloves </li> 
+    <li> 2 Tbsp basil, chopped, fresh or frozen </li> 
+    <li> 1 tsp. salt </li> 
+    <li> 1/4  tsp. pepper, ground olive olive </li>  
+    <li> 1 large ciabatta bread </li> 
+    </p>
+   <ul/>
+
