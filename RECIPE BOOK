@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <style>
 body {
@@ -10,13 +10,15 @@ body {
     <title>Your online Recipes!</title>
     <style>
       img {
-        width: 400px
+        width: 900px
       }
+      
   </style>
 </head>
 <body>
 
- <img src="images/96b794b7951888d2785387da9dfbe4cf.png" alt="Bild">
+  <img src="https://i.imgur.com/ajA8XkJ.jpeg"alt="pusheen cat" height="" width=""/>
+
    <table cellspacing="5" cellpadding="5">
     <tr>
       <td>Home</td>
@@ -42,9 +44,12 @@ body {
          </ul>
       </head>
   <body>
+    <style>
+    
+  </style>
 <h1> Appetizer </h1>
 <h3> <u> How to make Bruschetta </u></h3>
-<img src="https://www.dailyvegan.de/wp-content/uploads/2018/10/bruschetta-2.jpg "alt="bruschetta" height="100" width="250"/>
+<img src="https://www.dailyvegan.de/wp-content/uploads/2018/10/bruschetta-2.jpg "alt="bruschetta" height="400" width="200"/>
 
 <p> <strong> Ingredients List: </strong>
     <ul>
@@ -63,6 +68,7 @@ body {
   <body>
 <h1> Main Course</h1>
 <h3> <u> How to make a Honeycomb Canneloni Cake</u></h3>
+<img src="https://i0.wp.com/icingonthesteak.com/wp-content/uploads/2020/08/Honeycomb-Cannelloni-1024.jpg?fit=1024%2C940&ssl=1" alt="lemon cake" height="" width=""/>
 <p> <strong> Ingredients List: </strong>
   <ul>
   <li> 750 g Cannelloni </li> 
@@ -86,7 +92,7 @@ body {
 <body> 
 <h1> Dessert </h1>
 <h3> <u> How to make a lemon cake</u></h3>
- <img src="https://img.taste.com.au/IsFcG1PF/taste/2022/07/moist-lemon-cake-180205-2.jpg" alt="lemon cake" height="100" width="250"/>
+ <img src="https://img.taste.com.au/IsFcG1PF/taste/2022/07/moist-lemon-cake-180205-2.jpg" alt="lemon cake" height="" width=""/>
 <p> <strong> Ingredients List: </strong>
   <ul>
   <li> 200g butter, melted</li> 
@@ -98,5 +104,4 @@ body {
   <li> lemon zest</li>
   </ul>
   <a href="https://www.lisbeths.de/lemon-drizzle-cake-oder-der-wohl-saftigste-zitronenkuchen-aller-zeiten"/">This is how you do it</a>
-
 
