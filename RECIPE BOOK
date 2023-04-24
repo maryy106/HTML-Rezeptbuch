@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html>
+<style>
+body {
+  background-color: #F9E9EA;
+  }
+  </style>
+  
   <head>
     <title>Your online Recipes!</title>
     <style>
-        img {
-          width: 400px
-        }
-    </style>
-  </head>
-  <body>
-   <img src=".(image für header)" >
+      img {
+        width: 400px
+      }
+  </style>
+</head>
+<body>
+
+ <img src="images/96b794b7951888d2785387da9dfbe4cf.png" alt="Bild">
    <table cellspacing="5" cellpadding="5">
     <tr>
       <td>Home</td>
@@ -34,10 +41,11 @@
             <li><a href="https://www.einfachbacken.de/rezepte/zitronenkuchen-erfrischend-saftig">Lemon Cake</a></li>
          </ul>
       </head>
+  <body>
 <h1> Appetizer </h1>
-<h3> How to make Bruschetta</h3>
+<h3> <u> How to make Bruschetta </u></h3>
 
-<p> Ingredients list
+<p> <strong> Ingredients List: </strong>
     <ul>
     <li> 700 g ripe tomatoes, finely diced </li> 
     <li> 2 red onions, chopped </li> 
@@ -46,6 +54,32 @@
     <li> 1 tsp. salt </li> 
     <li> 1/4  tsp. pepper, ground olive olive </li>  
     <li> 1 large ciabatta bread </li> 
+    <p> <strong></p><a href="https://icingonthesteak.com/recipe/honeycomb-cannelloni/">This is how you do it</a> </strong>
     </p>
    <ul/>
+  </body>
+
+  <body>
+<h1> Main Course</h1>
+<h3> <u> How to make a Honeycomb Canneloni Cake</u></h3>
+<p> <strong> Ingredients List: </strong>
+  <ul>
+  <li> 750 g Cannelloni </li> 
+  <li> 1/2 cup Mozarella grated or shredded </li> 
+  <li> 1/4 cup Olive Oil </li>
+  <li> 2 Brown Onions diced</li>
+  <li> 4 cloves Garlic crushed</li>
+  <li> 2 Carrots coarsely grated </li>
+  <li> 2 Celery Sticks thinly sliced</li>
+  <li> 1.5 kg Beef Mince</li>
+  <li> 800 g Diced Tomatoes 2 cans</li>
+  <li> 3/4 cup Tomato Paste</li>
+  <li> 4 cups Beef Stock use stock cubes</li>
+  <li> 2 tsp Ground Oregano</li> 
+  <p> <strong>
+    <a href="https://icingonthesteak.com/recipe/honeycomb-cannelloni/">This is how you do it</a>  </p>
+  
+
+ <ul/
+</body>
 
