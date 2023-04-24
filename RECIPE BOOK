@@ -44,6 +44,7 @@ body {
   <body>
 <h1> Appetizer </h1>
 <h3> <u> How to make Bruschetta </u></h3>
+<img src="https://www.dailyvegan.de/wp-content/uploads/2018/10/bruschetta-2.jpg "alt="bruschetta" height="100" width="250"/>
 
 <p> <strong> Ingredients List: </strong>
     <ul>
@@ -82,4 +83,20 @@ body {
 
  <ul/
 </body>
+<body> 
+<h1> Dessert </h1>
+<h3> <u> How to make a lemon cake</u></h3>
+ <img src="https://img.taste.com.au/IsFcG1PF/taste/2022/07/moist-lemon-cake-180205-2.jpg" alt="lemon cake" height="100" width="250"/>
+<p> <strong> Ingredients List: </strong>
+  <ul>
+  <li> 200g butter, melted</li> 
+  <li> 150g sugar</li> 
+  <li> lemon juice</li>
+  <li> 4x eggs</li>
+  <li> 250g flour</li>
+  <li> A pack of bakingpowder</li>
+  <li> lemon zest</li>
+  </ul>
+  <a href="https://www.lisbeths.de/lemon-drizzle-cake-oder-der-wohl-saftigste-zitronenkuchen-aller-zeiten"/">This is how you do it</a>
+
 
