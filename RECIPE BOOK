@@ -1,107 +1,173 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {
-  background-color: #F9E9EA;
+  body {
+    background-color: #F9E9EA;
+    font-family: Arial, sans-serif;
+    color: #333;
   }
-  </style>
-  
-  <head>
-    <title>Your online Recipes!</title>
-    <style>
-      img {
-        width: 900px
-      }
-      
-  </style>
+
+  table {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  td {
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul li {
+    margin-bottom: 10px;
+  }
+
+  a {
+    color: #FF69B4;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  p {
+    margin-bottom: 20px;
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  button {
+    display: inline-block;
+    background-color: #ffc0cb;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold;
+  }
+
+  button:hover {
+    background-color: #E63C7E;
+  }
+</style>
+
+<head>
+  <title>Your online Recipes!</title>
 </head>
+
 <body>
 
-  <img src="https://i.imgur.com/ajA8XkJ.jpeg"alt="pusheen cat" height="" width=""/>
+  <img src="https://i.imgur.com/ajA8XkJ.jpeg" alt="pusheen cat" height="200" width="600" />
 
-   <table cellspacing="5" cellpadding="5">
+  <table cellspacing="5" cellpadding="5">
     <tr>
-      <td>Home</td>
-      <td>Gallery</td>
-      <td>Recent</td>
-      <td>About us</td>
+      <td><button>Home</button></td>
+      <td><button>Gallery</button></td>
+      <td><button>Recent</button></td>
+      <td><button>About us</button></td>
     </tr>
   </table>
-    <header>
-      <h1>WELCOME TO THIS PAGE!</h1>
-    </header>
+  <header>
+    <h1>WELCOME TO THIS PAGE!</h1>
+  </header>
+
   <head>
-        <body>
-            <p> Hello and welcome to this online recipe book! This blog will give you a lot of inspiration on great recipes you can try 
-                making on your own! Contact the admins for further questions. </p>
-        </body>
-        <p>On this blog, you're going to find information on:</p>
-        <ul>
-            <li><a href="https://www.dailyvegan.de/2016/06/06/bruschetta/ ">Bruschetta</a></li>
-            <li> <a href="https://www.zuckerzimtundliebe.de/2016/07/rezept-wassermelone-feta-minz-salat-watermelon-feta-mint-salad-recipe/">Watermelon Feta Salad with Mint</a></li>
-            <li> <a href="https://helloyummy.co/honeycomb-pasta-cake-recipe/">Honeycomb Pasta Cake</a></li>
-            <li><a href="https://www.einfachbacken.de/rezepte/zitronenkuchen-erfrischend-saftig">Lemon Cake</a></li>
-         </ul>
+
+  <body>
+    <p> Hello and welcome to this online recipe book! This blog will give you a lot of inspiration on great recipes you can try
+      making on your own! Contact the admins for further questions. </p>
+
+    <body>
+      <p>On this blog, you're going to find information on:</p>
+      <ul>
+        <li><a href="https://www.dailyvegan.de/2016/06/06/bruschetta/ ">Bruschetta</a></li>
+        <li> <a href="https://www.zuckerzimtundliebe.de/2016/07/rezept-wassermelone-feta-minz-salat-watermelon-feta-mint-salad-recipe/">Watermelon Feta Salad with Mint</a></li>
+        <li> <a href="https://helloyummy.co/honeycomb-pasta-cake-recipe/">Honeycomb Pasta Cake</a></li>
+        <li><a href="https://www.einfachbacken.de/rezepte/zitronenkuchen-erfrischend-saftig">Lemon Cake</a></li>
+      </ul>
       </head>
-  <body>
-    <style>
-    
-  </style>
-<h1> Appetizer </h1>
-<h3> <u> How to make Bruschetta </u></h3>
-<img src="https://www.dailyvegan.de/wp-content/uploads/2018/10/bruschetta-2.jpg "alt="bruschetta" height="400" width="200"/>
 
-<p> <strong> Ingredients List: </strong>
-    <ul>
-    <li> 700 g ripe tomatoes, finely diced </li> 
-    <li> 2 red onions, chopped </li> 
-    <li> 3 garlic cloves </li> 
-    <li> 2 Tbsp basil, chopped, fresh or frozen </li> 
-    <li> 1 tsp. salt </li> 
-    <li> 1/4  tsp. pepper, ground olive olive </li>  
-    <li> 1 large ciabatta bread </li> 
-    <p> <strong></p><a href="https://icingonthesteak.com/recipe/honeycomb-cannelloni/">This is how you do it</a> </strong>
-    </p>
-   <ul/>
-  </body>
+      <body>
+        <h1> Appetizer </h1>
+        <h3> <u> How to make Bruschetta </u></h3>
+        <img src="https://www.dailyvegan.de/wp-content/uploads/2018/10/bruschetta-2.jpg " alt="bruschetta" height="290" width="350" style="float:right; margin-right:1000px;">
 
-  <body>
-<h1> Main Course</h1>
-<h3> <u> How to make a Honeycomb Canneloni Cake</u></h3>
-<img src="https://i0.wp.com/icingonthesteak.com/wp-content/uploads/2020/08/Honeycomb-Cannelloni-1024.jpg?fit=1024%2C940&ssl=1" alt="lemon cake" height="" width=""/>
-<p> <strong> Ingredients List: </strong>
-  <ul>
-  <li> 750 g Cannelloni </li> 
-  <li> 1/2 cup Mozarella grated or shredded </li> 
-  <li> 1/4 cup Olive Oil </li>
-  <li> 2 Brown Onions diced</li>
-  <li> 4 cloves Garlic crushed</li>
-  <li> 2 Carrots coarsely grated </li>
-  <li> 2 Celery Sticks thinly sliced</li>
-  <li> 1.5 kg Beef Mince</li>
-  <li> 800 g Diced Tomatoes 2 cans</li>
-  <li> 3/4 cup Tomato Paste</li>
-  <li> 4 cups Beef Stock use stock cubes</li>
-  <li> 2 tsp Ground Oregano</li> 
-  <p> <strong>
-    <a href="https://icingonthesteak.com/recipe/honeycomb-cannelloni/">This is how you do it</a>  </p>
-  
+        <p> <strong> Ingredients List: </strong>
+        <ul>
+          <li> 700 g ripe tomatoes, finely diced </li>
+          <li> 2 red onions, chopped </li>
+          <li> 3 garlic cloves </li>
+          <li> 2 Tbsp basil, chopped, fresh or frozen </li>
+          <li> 1 tsp. salt </li>
+          <li> 1/4 tsp. pepper, ground olive olive </li>
+          <li> 1 large ciabatta bread </li>
+          <p> <strong></p><a href="https://www.dailyvegan.de/2016/06/06/bruschetta/">This is how you do it</a> </strong>
+          </p>
+          <ul />
+      </body>
 
- <ul/
-</body>
-<body> 
-<h1> Dessert </h1>
-<h3> <u> How to make a lemon cake</u></h3>
- <img src="https://img.taste.com.au/IsFcG1PF/taste/2022/07/moist-lemon-cake-180205-2.jpg" alt="lemon cake" height="" width=""/>
-<p> <strong> Ingredients List: </strong>
-  <ul>
-  <li> 200g butter, melted</li> 
-  <li> 150g sugar</li> 
-  <li> lemon juice</li>
-  <li> 4x eggs</li>
-  <li> 250g flour</li>
-  <li> A pack of bakingpowder</li>
-  <li> lemon zest</li>
-  </ul>
-  <a href="https://www.lisbeths.de/lemon-drizzle-cake-oder-der-wohl-saftigste-zitronenkuchen-aller-zeiten"/">This is how you do it</a>
+      <body>
+        <h1> Main Course</h1>
+        <h3> <u> How to make a Honeycomb Canneloni Cake</u></h3>
+        <img src="https://i0.wp.com/icingonthesteak.com/wp-content/uploads/2020/08/Honeycomb-Cannelloni-1024.jpg?fit=1024%2C940&ssl=1" alt="lemon cake" height="290" width="350" style="float:right; margin-right:1000px;">
+        <p> <strong> Ingredients List: </strong>
+        <ul>
+          <li> 750 g Cannelloni </li>
+          <li> 1/2 cup Mozarella grated or shredded </li>
+          <li> 1/4 cup Olive Oil </li>
+          <li> 2 Brown Onions diced</li>
+          <li> 4 cloves Garlic crushed</li>
+          <li> 2 Carrots coarsely grated </li>
+          <li> 2 Celery Sticks thinly sliced</li>
+          <li> 1.5 kg Beef Mince</li>
+          <li> 800 g Diced Tomatoes 2 cans</li>
+          <li> 3/4 cup Tomato Paste</li>
+          <li> 4 cups Beef Stock use stock cubes</li>
+          <li> 2 tsp Ground Oregano</li>
+          <p> <strong>
+              <a href="https://icingonthesteak.com/recipe/honeycomb-cannelloni/">This is how you do it</a> </p>
 
+          <ul / </body>
+
+            <body>
+              <h1> Dessert </h1>
+              <h3> <u> How to make a lemon cake</u></h3>
+              <img src="https://img.taste.com.au/IsFcG1PF/taste/2022/07/moist-lemon-cake-180205-2.jpg" alt="lemon cake" height="290" width="350" style="float:right; margin-right:1000px;">
+              <p> <strong> Ingredients List: </strong>
+              <ul>
+                <li> 200g butter, melted</li>
+                <li> 150g sugar</li>
+                <li> lemon juice</li>
+                <li> 4x eggs</li>
+                <li> 250g flour</li>
+                <li> A pack of bakingpowder</li>
+                <li> lemon zest</li>
+              </ul>
+              <a href="https://www.lisbeths.de/lemon-drizzle-cake-oder-der-wohl-saftigste-zitronenkuchen-aller-zeiten" /">This is how you do it</a>
